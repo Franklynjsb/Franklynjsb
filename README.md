@@ -1,42 +1,18 @@
-***********************************
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Franco Quijada</h1>
+<h3 align="center">FullStack developer from Argentina <3</h3>
 
-<!--
-**anishghimire603/anishghimire603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Franco Quijada, from Argentina.
-- 🔭 I’m currently pursuing my Information Systems Engineering (UTN FRSF).
-- 🌱 I’m currently learning Full-Stack Development.
-<!-- - 👯 I’m looking to collaborate on Open-source Projects. -->
+- 🌱 I’m currently learning **Angular, React & Java**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
+- 👨‍💻 All of my projects are available at [francoquijada-dev.onrender.com](francoquijada-dev.onrender.com)
 
-<p align="center">
- <img src="https://img.icons8.com/?size=100&id=IQzM79ERZ3I8&format=png&color=000000" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://img.icons8.com/?size=100&id=TuubxAtYIETs&format=png&color=000000" alt="javascript" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/?size=100&id=NPK9UueLJjaj&format=png&color=000000" alt="css" style="vertical-align:top; margin:4px">
-<img src="" alt="angular" style="vertical-align:top; margin:4px">
-<img src="" alt="java" style="vertical-align:top; margin:4px">
-<img src="" alt="java" style="vertical-align:top; margin:4px">
- <img src="https://img.icons8.com/?size=100&id=v05jsvW3RprR&format=png&color=000000" alt="vscode" style="vertical-align:top; margin:4px">
+- 📄 Know about my experiences and learnings [https://firebasestorage.googleapis.com/v0/b/fjqfrontend.appspot.com/o/imagen%2FFranco%20Joel%20Quijada%20-%20Junior%20FullStack-Developer.pdf?alt=media&token=c6134bd4-f4cb-4f2f-8e05-b209a2f22bd7](https://firebasestorage.googleapis.com/v0/b/fjqfrontend.appspot.com/o/imagen%2FFranco%20Joel%20Quijada%20-%20Junior%20FullStack-Developer.pdf?alt=media&token=c6134bd4-f4cb-4f2f-8e05-b209a2f22bd7)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/franco quijada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco quijada" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/frank-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="frank-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/franklynjsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franklynjsb" height="30" width="40" /></a>
 </p>
 
-
-**I am Into ,**
-
-**FullStack Development, BackEnd development**
-<br />
-
-<!--
-[![Franklynjsb's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklynjsb)](https://github.com/franklynjsb/github-readme-stats)
--->
-
-<br /> 
-
-- 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = "https://www.instagram.com/franklynjsb/"><img src = "https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=000000" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/francojquijada/"><img src = "https://img.icons8.com/?size=100&id=447&format=png&color=000000" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<a href = "https://francoquijada-dev.onrender.com"><img src = "https://img.icons8.com/?size=100&id=112575&format=png&color=000000" height= 15px width = 15px> Website </a>
-
-*************
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
