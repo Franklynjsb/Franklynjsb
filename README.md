@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, React & Java**
 
-- 👨‍💻 All of my projects are available at [francoquijada-dev.onrender.com](francoquijada-dev.onrender.com)
-
-- 📄 Know about my experiences and learnings [https://firebasestorage.googleapis.com/v0/b/fjqfrontend.appspot.com/o/imagen%2FFranco%20Joel%20Quijada%20-%20Junior%20FullStack-Developer.pdf?alt=media&token=c6134bd4-f4cb-4f2f-8e05-b209a2f22bd7](https://firebasestorage.googleapis.com/v0/b/fjqfrontend.appspot.com/o/imagen%2FFranco%20Joel%20Quijada%20-%20Junior%20FullStack-Developer.pdf?alt=media&token=c6134bd4-f4cb-4f2f-8e05-b209a2f22bd7)
+- 👨‍💻 All of my projects, experiences and learnings are available at [francoquijada-dev.onrender.com](francoquijada-dev.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
