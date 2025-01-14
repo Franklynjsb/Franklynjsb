@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Quijada</h1>
 <h3 align="center">FullStack developer from Argentina <3</h3>
 
-- 🌱 I’m currently learning **Angular, React & Java**
+- 🌱 I’m currently learning **Angular, MYSQL & Java**
 
 - 👨‍💻 All of my projects, experiences and learnings are available at [francoquijada-dev.onrender.com](francoquijada-dev.onrender.com)
 
